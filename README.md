@@ -137,11 +137,11 @@ To use the provided 3D shape retrieval toolkit that is implemented by JavaScript
 ### Citation
 If you find our paper or code is helpful for your project, please consider citing our paper as follows
 ```bibtex
-@article{sun23vsformer,
+@article{sun24vsformer,
     author={Sun, Hongyu and Wang, Yongcai and Wang, Peng and Deng, Haoran and Cai, Xudong and Li, Deying}, 
     journal={IEEE Transactions on Visualization and Computer Graphics submission}, 
     title={VSFormer: Mining Correlations in Flexible View Set for Multi-view 3D Shape Understanding},
-    year={2023}
+    year={2024}
 }
 ```
 
