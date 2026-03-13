@@ -137,12 +137,17 @@ To use the provided 3D shape retrieval toolkit that is implemented by JavaScript
 ### Citation
 If you find our paper or code is helpful for your project, please consider citing our paper as follows
 ```bibtex
-@article{sun24vsformer,
-    author={Sun, Hongyu and Wang, Yongcai and Wang, Peng and Deng, Haoran and Cai, Xudong and Li, Deying}, 
-    journal={IEEE Transactions on Visualization and Computer Graphics submission}, 
-    title={VSFormer: Mining Correlations in Flexible View Set for Multi-view 3D Shape Understanding},
-    year={2024}
-}
+  @ARTICLE{sun25vsformer,
+      author={Sun, Hongyu and Wang, Yongcai and Wang, Peng and Deng, Haoran and Cai, Xudong and Li, Deying},
+      journal={IEEE Transactions on Visualization and Computer Graphics},
+      title={VSFormer: Mining Correlations in Flexible View Set for Multi-View 3D Shape Understanding},
+      year={2025},
+      volume={31},
+      number={4},
+      pages={2127-2141},
+      keywords={Three-dimensional displays;Shape;Correlation;Feature extraction;Solid modeling;Transformers;Aggregates;Multi-view 3D shape recognition and retrieval;multi-view 3D shape analysis;view set;attention mechanism},
+      doi={10.1109/TVCG.2024.3381152}
+  }
 ```
 
 ### Contact
